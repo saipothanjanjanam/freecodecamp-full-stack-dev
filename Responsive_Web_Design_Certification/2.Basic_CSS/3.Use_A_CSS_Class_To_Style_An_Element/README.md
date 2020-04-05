@@ -13,8 +13,6 @@
 ```
 * Now you can directly include the `red-text` in `class` attribute of any HTML element to style it.
 
-
-
 ### CODE
 [Click to view the code.](use-a-css-class-to-style-an-element.html)
 

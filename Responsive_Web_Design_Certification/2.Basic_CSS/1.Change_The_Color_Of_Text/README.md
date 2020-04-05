@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 * We can change the color of the element's text using `color` style property of `style` attribute of that HTML element.
-* It is good to end the properties with `;`.
+* It is always good to end the properties with `;`.
 
 ### CODE
 [Click to view the code.](change-the-color-of-text.html)
