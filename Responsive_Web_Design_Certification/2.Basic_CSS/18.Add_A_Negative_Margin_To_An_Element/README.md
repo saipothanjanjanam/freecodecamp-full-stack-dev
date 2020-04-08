@@ -10,7 +10,7 @@
         }
     </style>
 ``` 
-* `-ve margin` reduce the size of an element's content but increasing the space between the element and other elements.
+* `-ve margin` reduce the size of an element's content, increases the size of element and increasing the space between the element and other elements.
 
 ### CODE
 [Click to view the code.](add-a-negative-margin-to-an-element.html)
