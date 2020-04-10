@@ -1,4 +1,4 @@
-# Use RGB Values To Color Elements 
+# Use RGB Values To Mix Colors 
 
 ### DESCRIPTION
 * Each of the primary colors `R`, `G`, `B` have the values running from `0`(*black*) and runs till `255`(*fullcolor*). We can mix different values of `R`,`G`,`B` to get different colors. By Simple math, each place in the RGB takes 256 values, So total no of colors we can produce by combinations is `256*256*256 = 16.7 million colors`. 
