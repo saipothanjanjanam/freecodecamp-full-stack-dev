@@ -17,4 +17,4 @@
 [Click to view the code.](use-rgb-values-to-color-elements.html)
 
 ### OUTPUT
-[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/2.Basic_CSS/34.Use_RGB_Values_To_Color_Elements/use-rgb-values-to-color-elements.html)
+[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/2.Basic_CSS/35.Use_RGB_Values_To_Color_Elements/use-rgb-values-to-color-elements.html)
