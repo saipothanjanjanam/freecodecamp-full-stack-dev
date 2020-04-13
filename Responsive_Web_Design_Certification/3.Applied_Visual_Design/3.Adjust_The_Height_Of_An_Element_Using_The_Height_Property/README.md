@@ -16,4 +16,4 @@
 [Click to view the code.](adjust-the-height-of-an-element-using-the-height-property.html)
 
 ### OUTPUT
-[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/3.Applied_Visual_Design/2.Adjust_The_Height_Of_An_Element_Using_The_Height_Property/adjust-the-height-of-an-element-using-the-height-property.html)
+[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/3.Applied_Visual_Design/3.Adjust_The_Height_Of_An_Element_Using_The_Height_Property/adjust-the-height-of-an-element-using-the-height-property.html)
