@@ -4,7 +4,7 @@
 * we can change the text of the webpage using `em` tag. 
 * `<em>` and `</em>` are opening and ending tags around which our text needs to be enclosed to make it look italicized.
 * Actually, this is equal to applying CSS property `font-style: italic;`.
-* Below code applies underline to the text `Text` using `em` tags.
+* Below code italicizes the text `Text` using `em` tags.
 ```html
 <em>Text</em>
 ``` 

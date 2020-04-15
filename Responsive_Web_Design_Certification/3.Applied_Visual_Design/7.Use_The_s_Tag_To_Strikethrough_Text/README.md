@@ -4,7 +4,7 @@
 * we can strikeoff the text of the webpage using `s` tag. 
 * `<s>` and `</s>` are opening and ending tags around which our text needs to be enclosed to strikeit off.
 * Actually, this is equal to applying CSS property `text-decoration: line-through;`.
-* Below code applies underline to the text `Text` using `s` tags.
+* Below code strikesoff the text `Text` using `s` tags.
 ```html
 <s>Text</s>
 ``` 
