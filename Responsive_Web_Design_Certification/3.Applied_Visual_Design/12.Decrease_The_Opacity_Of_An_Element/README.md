@@ -11,7 +11,7 @@
 ```html
     <style>
     .some-class{
-        opacity:;
+        opacity: 0.5;
     }
     </style>
 ```
