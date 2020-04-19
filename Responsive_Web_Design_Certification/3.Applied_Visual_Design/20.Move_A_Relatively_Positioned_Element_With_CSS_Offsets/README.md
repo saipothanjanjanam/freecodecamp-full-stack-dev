@@ -23,4 +23,4 @@
 [Click to view the code.](move-a-relatively-positioned-element-with-css-offsets.html)
 
 ### OUTPUT
-[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive Web Design Certification/3.Applied Visual Design/20.Move A Relatively Positioned Element With CSS Offsets/move-a-relatively-positioned-element-with-css-offsets.html)
+[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/3.Applied_Visual_Design/20.Move A Relatively Positioned Element With CSS Offsets/move-a-relatively-positioned-element-with-css-offsets.html)
