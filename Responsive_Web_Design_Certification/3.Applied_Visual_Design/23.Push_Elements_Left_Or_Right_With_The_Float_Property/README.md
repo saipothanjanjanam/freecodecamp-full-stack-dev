@@ -3,11 +3,12 @@
 ### DESCRIPTION
 * We can also position the elements in webpage not only using `position` property but also by `float` property which pushes the elements `left` or `right` containing parent element.
 * This `float` positioning removes the elements from normal flow and it is used with `width` so that the element can be moved `left` or `right` by maintaining its `width` to get required horizontal spacing.
-* Below example applies `float` positioning to the `id` which can be applied to `element` to move it `left`.
+* Below example applies `float` positioning to the `id` which can be applied to `element` to move it `left` and also changing the element`s with to 40%.
 ```html
 <style>
     #some-id{
         float: left; 
+    	width: 40%
     }
 </style>
 ```
