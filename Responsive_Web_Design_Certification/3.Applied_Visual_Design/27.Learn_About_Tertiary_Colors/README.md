@@ -11,4 +11,4 @@
 [Click to view the code.](learn-about-tertiary-colors.html)
 
 ### OUTPUT
-[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/3.Applied_Visual_Design/26.Learn_About_Tertiary_Colors/learn-about-tertiary-colors.html)
+[Click to view the output.](http://htmlpreview.github.io/?https://github.com/saipothanjanjanam/freecodecamp-full-stack-dev/blob/master/Responsive_Web_Design_Certification/3.Applied_Visual_Design/27.Learn_About_Tertiary_Colors/learn-about-tertiary-colors.html)
