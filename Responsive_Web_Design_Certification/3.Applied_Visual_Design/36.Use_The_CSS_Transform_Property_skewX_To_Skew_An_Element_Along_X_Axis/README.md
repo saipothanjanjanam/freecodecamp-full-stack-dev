@@ -7,7 +7,7 @@
 
 ```
 <html>
-	p:hover {
+	p {
 		transform: skewX(20deg);
 	}
 </html>
